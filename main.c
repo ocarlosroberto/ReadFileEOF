@@ -26,7 +26,6 @@ int main(int argc, char *argv[]) {
 		pos++;
 
 		if(c == '\n'){
-			//printf("Line %i => %s\n",i,line);
 			printf(line);
 			i++;
 
